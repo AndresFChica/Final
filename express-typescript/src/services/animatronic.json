@@ -1,0 +1,41 @@
+[{
+    "id": 1,
+    "name": "Freddy",
+    "classType": "classic",
+    "creation_date": 1993,
+    "affiliation": "Fazbear Entertainment",
+    "possessed_by": "Gabriel",
+    "assassinations": 7
+  }, {
+    "id": 2,
+    "name": "Bonnie",
+    "ClassType": "classic",
+    "creation_date": 1984,
+    "affiliation": "Fazbear Entertainment",
+    "possessed_by": "Jeremy",
+    "assassinations": 4
+  }, {
+    "id": 3,
+    "name": "Chica",
+    "ClassType": "classic",
+    "creation_date": 1985,
+    "affiliation": "Freddy Fazbear's Pizza",
+    "possessed_by": "Susie",
+    "assassinations": 2
+  }, {
+    "id": 4,
+    "name": "Foxy",
+    "ClassType": "classic",
+    "creation_date": 2008,
+    "affiliation": "Fazbear Entertainment",
+    "possessed_by": "Fritz",
+    "assassinations": 7
+  }, {
+    "id": 5,
+    "name": "Golden Freddy",
+    "ClassType": "classic",
+    "creation_date": 2012,
+    "affiliation": "Freddy Fazbear's Pizza",
+    "possessed_by": "Cassidy",
+    "assassinations": 1
+  }]
